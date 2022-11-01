@@ -8,9 +8,14 @@ body {
   height: 100vh;
 }
 
-#container {
-  max-width: 100vw;
+.container {
+  max-width: 80%;
   text-align: center;
+  background: #88e26f;
+  border: 1px solid black;
+  width: 200px;
+  height: auto;
+  margin: auto;
 }
 
 h1 {
